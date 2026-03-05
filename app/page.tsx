@@ -16,9 +16,7 @@ export default function Home() {
                 Start Press Simulation
               </button>
             </Link>
-            <span className="text-sm bg-white/10 border border-white/15 px-4 py-3 rounded-lg">
-              Country must match library sheet name
-            </span>
+           
           </div>
         </div>
       </div>
